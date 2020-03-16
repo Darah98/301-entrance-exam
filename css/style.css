@@ -1,0 +1,41 @@
+body{
+    background-color: #eee;
+    width: 100%;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+
+}
+#leftdiv{
+    float: left;
+    background-color: #dae4ff;
+}
+#rightdiv{
+    float: right;
+
+}
+h1{
+    background-color: #6d8adbc7;
+    color: #eee;
+    text-align: center;
+    font-size: 3em;
+}
+.maindivs{
+    width: 50%;
+    padding: 10%;
+}
+legend{
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 2%;
+
+}
+label{
+    margin: 2%; 
+}
+input{
+    margin: 2%; 
+}
+form{
+    width: 29%;
+
+}
